@@ -1,4 +1,15 @@
 # Git Version Control
+
+## Table of Contents
+* [Explanation of version control](#Explanation-of-version-control)
+* [Setting up git](#Setting-up-git)
+* [Creating a repository](#Creating-a-repository)
+* [Tracking changes](#Tracking-changes)
+* [Creating branches](#Creating-branches)
+* [Cloning repositories](#Cloning-repositories)
+* [References](#References)
+* [Further reading](#Further-reading)
+
 ## Explanation of version control
 **Objectives**:
 

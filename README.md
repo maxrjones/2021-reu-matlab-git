@@ -38,8 +38,8 @@ Due to the short workshop duration, some introductory MATLAB material will be pr
 | [Tracking changes](/intro-version-control.md#Tracking-changes) |
 | [Creating branches](/intro-version-control.md#Creating-branches) |
 | [Cloning repositories](/intro-version-control.md#Cloning-repositories) |
-| [Resources for further learning](/intro-version-control.md#Resources-for-further-learning) |
-
+| [References](/intro-version-control.md#References) |
+| [Further reading](/intro-version-control.md#Further-reading) |
 ## References
 
 - The Git Version control introduction was adapted Software Carpentry lesson 
