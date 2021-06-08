@@ -4,7 +4,7 @@
 
 **Title**: 2021 ESVI REU Intro to MATLAB and Git Version Control Workshop
 
-**Instructor**: Dr. Meghan Jones (meghanj@hawaii.edu)
+**Instructor**: Dr. Meghan Jones
 
 **When**: Wednesday June 09, 2021 08:00 - 11:00 HST
 
@@ -31,7 +31,14 @@ Due to the short workshop duration, some introductory MATLAB material will be pr
 | **Topics** |
 | :---------------------- |
 | **Introductions** |
-
+| **Git Version Control** |
+| [Explanation of version control](/intro-version-control.md#Explanation-of-version-control) |
+| [Setting up git](/intro-version-control.md#Setting-up-git) |
+| [Creating a repository](/intro-version-control.md#Creating-a-repository) |
+| [Tracking changes](/intro-version-control.md#Tracking-changes) |
+| [Creating branches](/intro-version-control.md#Creating-branches) |
+| [Cloning repositories](/intro-version-control.md#Cloning-repositories) |
+| [Resources for further learning](/intro-version-control.md#Resources-for-further-learning) |
 
 ## References
 
