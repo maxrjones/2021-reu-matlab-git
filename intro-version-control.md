@@ -11,12 +11,12 @@
 * [Further reading](#Further-reading)
 
 ## Explanation of version control
-**Objectives**:
+### Objectives
 
 - Understand the benefits of an automated version control system.
 - Understand the basics of how automated version control systems work.
 
-**Content**:
+### Tutorial steps
 
 Version control systems are tools that keep track of changes to documents. There are
 many benefits to using version control systems, including:
@@ -30,12 +30,12 @@ other tasks such as writing papers, proposals, and presentations.
 
 ## Setting up git
 
-**Objectives**:
+### Objectives
 
 - Configure `git` the first time it is used on a computer.
 - Understand the meaning of the `--global` configuration flag.
 
-**Tutorial steps**:
+### Tutorial steps
 
 In this section, we will configure some Git settings.
 
@@ -75,12 +75,12 @@ You can also get help using `git config --help`.
 
 ## Creating a repository
 
-**Objectives**:
+### Objectives
 
 - Create a local Git repository.
 - Describe the purpose of the `.git` directory.
 
-**Tutorial steps**:
+### Tutorial steps
 
 In this section, we will create a repository.
 
@@ -105,12 +105,12 @@ In this section, we will create a repository.
 
 ## Tracking changes
 
-**Objectives**:
+### Objectives
 
 - Complete the modify-add-commit cycle.
 - Understand how to write descriptive commit messages.
 
-**Tutorial steps**:
+### Tutorial steps
 
 1. Check that you are in the current directory:
 
@@ -146,7 +146,7 @@ In this section, we will create a repository.
 > **Note**: [Chris Beam's blog](https://chris.beams.io/posts/git-commit/) includes a
 > great guide on how to write useful commit messages.
 
-**Exercises**:
+### Exercises
 
 - Create a new file `more-notes.txt`, add text to the file, and commit it to your
   repository.
@@ -156,13 +156,13 @@ In this section, we will create a repository.
 
 ## Creating branches
 
-**Objectives**:
+### Objectives
 
 - Understand the basics of branching in Git.
 - Create a branch and check it out.
 - Return to the main branch after committing changes to the new branch.
 
-**Tutorial steps**:
+### Tutorial steps
 
 Branching provides a way to develop independent from the main development line.
 
