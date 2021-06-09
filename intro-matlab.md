@@ -9,6 +9,7 @@
 * [Basic mathematical operations](#Basic-mathematical-operations)
 * [2D plotting](#2D-plotting)
 * [Importing and exporting datasets](#Importing-and-exporting-datasets)
+* [Writing functions](#Writing-functions)
 
 ## Introduction to MATLAB and comparison with other languages
 
@@ -420,7 +421,7 @@ contrast to zero).
     load('variables.mat')
     ```
 
-3. Load the previously saved data from the `.cvs` file:
+3. Load the previously saved data from the `.csv` file:
 
     ```
     data1 = readmatrix('data.csv');
@@ -442,3 +443,19 @@ contrast to zero).
     data3 = readmatrix('data.xlsx');
     table = readtable('data.xlsx');
     ```
+
+## Writing functions
+
+### Objectives
+
+- Create a simple function in MATLAB to convert from feet to meters
+
+### Tutorial steps
+
+1. Click on new function in MATLAB.
+2. Update the name of the function to ft2m.
+3. Update the number of input variables to 1.
+4. Update the number of output variables to 1.
+5. Write code that converts from ft to m (1m = 1/3.2808 ft)
+6. Call the function to convert a value from ft to m.
+7. Call the function on an array of values.
