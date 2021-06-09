@@ -89,7 +89,7 @@ In this section, we will create a repository.
     ```
     cd ~/Desktop
     mkdir learn-git
-    cd learn git
+    cd learn-git
     ```
 
 2. Tell Git to make `learn-git` a repository:
