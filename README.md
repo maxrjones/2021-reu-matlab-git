@@ -48,7 +48,8 @@ Due to the short workshop duration, some introductory MATLAB material will be pr
 | [Basic mathematical operations](/intro-matlab.md#Basic-mathematical-operations) |
 | [2D plotting](/intro-matlab.md#2D-plotting) |
 | [Importing and exporting datasets](/intro-matlab.md#Importing-and-exporting-datasets) |
-| [Writing functions](#Writing-functions) |
+| [Writing functions](/intro-matlab.md#Writing-functions) |
+| [Control flow](/intro-matlab.md#Control-flow) |
 
 ## References
 

@@ -10,6 +10,7 @@
 * [2D plotting](#2D-plotting)
 * [Importing and exporting datasets](#Importing-and-exporting-datasets)
 * [Writing functions](#Writing-functions)
+* [Control flow](#Control-flow)
 
 ## Introduction to MATLAB and comparison with other languages
 
@@ -115,7 +116,7 @@ MATLAB (MATrix LABoratory) is a proprietary programming language and desktop com
 
 ### Tutorial steps
 
-### Creating vectors and arrays
+#### Creating vectors and arrays
 
 Vectors and matrices store sets of values that share a common type, where a vector is
 equivalent to a 1-D array or matrix.
@@ -166,7 +167,7 @@ equivalent to a 1-D array or matrix.
     identity_matrix = eye(3);
     ```
 
-### Indexing vectors and arrays
+#### Indexing vectors and arrays
 
 MATLAB uses parentheses to slice or index arrays. The first index in MATLAB is 1 (in
 contrast to zero).
@@ -369,7 +370,7 @@ contrast to zero).
 
 ### Tutorial steps
 
-### Saving workspace variables
+#### Saving workspace variables
 
 1. Use the `save()` function to save all current workspace variables to a `.mat` file:
 
@@ -409,7 +410,7 @@ contrast to zero).
 > **NOTE**: Older versions of MATLAB may require using (`xlswrite`)
 
 
-### Loading data
+#### Loading data
 
 1. Clear all workspace variables
 
@@ -448,7 +449,7 @@ contrast to zero).
 
 ### Objectives
 
-- Create a simple function in MATLAB to convert from feet to meters
+- Create a simple function in MATLAB to convert from feet to meters.
 
 ### Tutorial steps
 
@@ -459,3 +460,43 @@ contrast to zero).
 5. Write code that converts from ft to m (1m = 1/3.2808 ft)
 6. Call the function to convert a value from ft to m.
 7. Call the function on an array of values.
+
+## Control flow
+
+### Objectives
+
+- Create a script that uses conditional statements and for-loops.
+
+### Tutorial steps
+
+1. Open the file `control_flow_intro.m`:
+
+    `edit control_flow_intro.m`
+
+#### Conditional statements
+
+1. Use an `if` block to test whether a number is greater than 8:
+
+    ```
+    a = input('Enter a number: ');
+    if a > 8
+        disp('Number is larger than 8')
+    end
+    ```
+
+2. Add an `elseif` block for whether the number is less than 8.
+3. Add an `else` statement that says it must be equal to 8.
+4. Add a test that the input is numeric.
+
+> **NOTE**: Conditional operators include `< <= > >= == ~= & |`.
+
+#### For loops
+
+1. Use a for-loop to add the numbers between 0 and 10:
+
+    ```
+    total = 0;
+    for x = 0:10
+        total = total + x;
+    end
+    ```
