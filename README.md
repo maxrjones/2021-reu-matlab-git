@@ -40,6 +40,15 @@ Due to the short workshop duration, some introductory MATLAB material will be pr
 | [Cloning repositories](/intro-version-control.md#Cloning-repositories) |
 | [References](/intro-version-control.md#References) |
 | [Further reading](/intro-version-control.md#Further-reading) |
+| **MATLAB** |
+| [Introduction to MATLAB and comparison with other languages](/intro-matlab.md#Introduction-to-MATLAB-and-comparison-with-other-languages) |
+| [MATLAB IDE, documentation, and help](/intro-matlab.md#MATLAB-IDE-documentation-and-help) |
+| [Variables, special variables](/intro-matlab.md#Variables-special-variables) |
+| [Matrices](/intro-matlab.md#Matrices) |
+| [Basic mathematical operations](/intro-matlab.md#Basic-mathematical-operations) |
+| [2D plotting](/intro-matlab.md#2D-plotting) |
+| [Importing and exporting datasets](/intro-matlab.md#Importing-and-exporting-datasets) |
+
 ## References
 
 - The Git Version control introduction was adapted Software Carpentry lesson 
