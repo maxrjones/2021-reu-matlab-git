@@ -166,6 +166,17 @@ equivalent to a 1-D array or matrix.
     ones_matrix = ones(3,3);
     identity_matrix = eye(3);
     ```
+    
+7. Create a new vector array with values twice those in the vector `row1`:
+
+    `row3 = row1 * 2`
+
+8. Create a linear and logarithmic spaced vector:
+
+    ```
+    vector_linear = linspace(0,6,4);
+    vector_log = logspace(0,2,3);
+    ```
 
 #### Indexing vectors and arrays
 
@@ -203,18 +214,7 @@ contrast to zero).
 
     `row1(4) = 20`
 
-8. Create a new vector array with values twice those in the vector `row1`:
-
-    `row3 = row1 * 2`
-
-9. Create a linear and logarithmic spaced vector:
-
-    ```
-    vector_linear = linspace(0,6,4);
-    vector_log = logspace(0,2,3);
-    ```
-
-10. Delete the last element from the vector `row1`:
+8. Delete the last element from the vector `row1`:
 
     `row1(end) = []`
 
