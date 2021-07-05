@@ -28,7 +28,7 @@ Due to the short workshop duration, some introductory MATLAB material will be pr
 
 ## Prerequisites
 
-The only prerequisites for this workshop are working installations of Git and MATLAB. Follow the [git-scm instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for installing Git. Follow your institution's installation instructions for MATLAB.
+The only prerequisites for this workshop are working installations of Git, MATLAB, and a text editor. Follow the [git-scm instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for installing Git. Follow your institution's installation instructions for MATLAB. The steps for the Git tutorial are based on [Visual Studio Code](https://code.visualstudio.com/) as a text editor.
 
 ## Schedule
 
