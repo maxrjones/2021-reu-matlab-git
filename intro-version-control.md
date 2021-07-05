@@ -54,6 +54,10 @@ In this section, we will configure some Git settings.
 5. Set your preferred text editor (See
   [git-scm Appendix C](https://www.git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config)
   for options):
+  
+   > **NOTE**: The line below needs to be adjusted for your particular text editor using the
+   > options in the link provided above. For example, the command for setting Visual Studio
+   > Code as your preferred text editor is `git config --global core.editor "code --wait"`.
 
     `git config --global core.editor "editor name"`
 
