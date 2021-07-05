@@ -26,6 +26,10 @@
 
 Due to the short workshop duration, some introductory MATLAB material will be provided for independent learning after the workshop (e.g., control flow, string formatting, data fitting).
 
+## Prerequisites
+
+The only prerequisites for this workshop are working installations of Git and MATLAB. Follow the [git-scm instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for installing Git. Follow your institution's installation instructions for MATLAB.
+
 ## Schedule
 
 | **Topics** |
