@@ -120,7 +120,7 @@ In this section, we will create a repository.
 
     `pwd`
 
-2. Create a new file and add some notes:
+2. Create a new file:
 
     `touch git-notes.txt`
 
