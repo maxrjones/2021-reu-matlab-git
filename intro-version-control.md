@@ -120,10 +120,14 @@ In this section, we will create a repository.
 
     `pwd`
 
-2. Create a file that contains some notes:
+2. Create a new file and add some notes:
 
-    `code git-notes.txt`
-3. Type text into `git-notes.txt` and save the file.
+    `touch git-notes.txt`
+
+3. Add notes to the new files:
+
+    `echo "I will add some notes" > git-notes.txt`
+
 4. In the terminal, check that `git-notes.txt` contains some content:
 
     `cat git-notes.txt`
