@@ -126,7 +126,7 @@ In this section, we will create a repository.
 
 3. Add notes to the new files:
 
-    `echo "I will add some notes" > git-notes.txt`
+    `echo "Git is a version control system" > git-notes.txt`
 
 4. In the terminal, check that `git-notes.txt` contains some content:
 
