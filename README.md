@@ -57,7 +57,14 @@ The only prerequisites for this workshop are working installations of Git, MATLA
 
 ## References
 
-- The Git Version control introduction was adapted Software Carpentry lesson 
-[Version Control with Git](https://swcarpentry.github.io/git-novice/).
+- The Git Version control introduction was adapted Software Carpentry lesson
+  [Version Control with Git](https://swcarpentry.github.io/git-novice/), which is licensed
+  under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
 - The MATLAB introduction references past ESVI REU MATLAB workshops by 
   Dr. Tiffany Anderson.
+  
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This content is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
