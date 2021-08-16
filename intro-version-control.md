@@ -213,7 +213,9 @@ Here we will clone the repository for the MATLAB portion of this workshop:
 
 ## References
 
-- This tutorial was adapted from Software Carpentry's [Version Control with Git](http://swcarpentry.github.io/git-novice/).
+- This tutorial was adapted from Software Carpentry's
+  [Version Control with Git](http://swcarpentry.github.io/git-novice/),
+  which is licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
 
 ## Further reading
 
