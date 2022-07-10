@@ -209,7 +209,7 @@ Here we will clone the repository for the MATLAB portion of this workshop:
     ```
 2. Clone the remote remote repository for this workshop:
 
-    `git clone https://github.com/meghanrjones/2021-reu-matlab-git.git`
+    `git clone https://github.com/maxrjones/2021-reu-matlab-git.git`
 
 ## References
 
