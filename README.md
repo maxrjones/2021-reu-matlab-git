@@ -8,7 +8,7 @@
 
 **When**: Wednesday June 09, 2021 08:00 - 11:00 HST
 
-**Repository**: https://github.com/meghanrjones/2021-reu-matlab-git
+**Repository**: https://github.com/maxrjones/2021-reu-matlab-git
 
 **Prerequisites**: Working installation of MATLAB and Git (see email with instructions)
 
