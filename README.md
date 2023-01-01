@@ -4,7 +4,7 @@
 
 **Title**: 2021 ESVI REU Intro to MATLAB and Git Version Control Workshop
 
-**Instructor**: Dr. Meghan Jones
+**Instructor**: Dr. Max Jones
 
 **When**: Wednesday June 09, 2021 08:00 - 11:00 HST
 
